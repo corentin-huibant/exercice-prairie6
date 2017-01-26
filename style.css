@@ -1,0 +1,80 @@
+.vert
+{
+height: 50px;
+width: 80%;
+background:#2ECC71;
+}
+
+.bleu
+ {
+ height: 50px;
+ width: 20%;
+ background:#2980B9;
+ margin-left: 80%;
+ margin-top: -50px;
+}
+
+.rouge
+{
+height: 75px;
+width: 35%;
+background:#E74C3C;
+}
+
+.rougeot
+{
+height: 75px;
+width: 37.5%;
+background:#E67E22;
+margin-left: 35%;
+margin-top: -75px;
+}
+
+.gris
+{
+height: 75px;
+width: 32.5%;
+background:#95A5A6;
+margin-left: 67.5%;
+margin-top: -150px;
+}
+
+.orange
+{
+height: 75px;
+width: 35%;
+background:#E74C3C;
+}
+
+.jaune
+{
+height: 75px;
+width: 23%;
+background:#F39C12;
+margin-left: 35%;
+}
+
+.blue
+{
+height: 75px;
+width: 23%;
+background:#16A085;
+margin-left: 58%;
+margin-top: -75px;
+}
+
+.feu
+{
+height: 75px;
+width: 19%;
+background:#D35400;
+margin-left: 81%;
+margin-top: -75px;
+}
+
+.noir
+{
+height: 180px;
+width: 100%;
+background:#2C3E50;
+}
